@@ -1,0 +1,9 @@
+Package: com.tokcs.autowifiauth
+Name: AutoWifiAuth
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Atsushi OHNO
+Author: Atsushi OHNO
+Section: Tweaks
